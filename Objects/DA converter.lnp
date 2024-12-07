@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\DAC.obj" 
+TO ".\Objects\DA converter" 
+PRINT(".\Listings\DA converter.m51")
